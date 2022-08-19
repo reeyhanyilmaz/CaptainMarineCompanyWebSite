@@ -1,7 +1,7 @@
 # CaptainMarinePersonalWebSite
 Captain Marine kişisel web sitesi
 
-https://captainmarin.com/
+# https://captainmarin.com/
 
 ## Kullanılan özellikler:
 *  ```NextJS``` 
