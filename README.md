@@ -1,5 +1,5 @@
-# CaptainMarinePersonalWebSite
-Captain Marine kişisel web sitesi
+# Captain Marin Company Web Site
+
 
 # https://captainmarin.com/
 
