@@ -7,6 +7,6 @@
 *  ```NextJS``` 
 *  ```React``` 
 *  ```Redux``` 
-*  ```i18n Internationalization``` 
+*  Türkçe ve Ingilizce dil seçeneği , ```i18n Internationalization``` 
 * Stillendirme de pure CSS ve ```Chakra-UI```
 * Adminin ürün düzenleyebildiği, sildiği ve yeni ürün eklediği ```Admin Panel```
