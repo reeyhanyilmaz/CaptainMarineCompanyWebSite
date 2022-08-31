@@ -9,4 +9,4 @@
 *  ```Redux``` 
 *  ```i18n Internationalization``` 
 * Stillendirme de pure CSS ve ```Chakra-UI```
-* Kullanıcının ürün düzenleyebildiği, sildiği ve yeni ürün eklediği ```Admin Panel```
+* Adminin ürün düzenleyebildiği, sildiği ve yeni ürün eklediği ```Admin Panel```
